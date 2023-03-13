@@ -7,6 +7,7 @@ A patient going to a doctor with certain symptoms.
 1.The doctor recommending certain tests like blood test, urine test etc depending on the symptoms.
 
 2.The patient taking the aforementioned tests in an analysis lab.
+
 3.The patient taking the reports back to the reports back to the hospital, where they are examined and the disease is identified.
 
 This project aims to reduce the time delay caused due to the unnecessary back and forth shuttling between the hospital and the pathology lab. Here a machine
