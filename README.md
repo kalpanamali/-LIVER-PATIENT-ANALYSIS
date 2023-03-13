@@ -28,17 +28,27 @@ This data set contains 416 liver patient records and 167 non liver patient recor
 
 # Columns:
 
--Age of the patient
--Gender of the patient
--Total Bilirubin
--Direct Bilirubin
--Alkaline Phosphotase
--Alamine Aminotransferase
--Aspartate Aminotransferase
--Total Protiens
--Albumin
--Albumin and Globulin Ratio
--Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
+- Age of the patient
+ 
+- Gender of the patient
+
+- Total Bilirubin
+
+- Direct Bilirubin
+
+- Alkaline Phosphotase
+
+- Alamine Aminotransferase
+
+- Aspartate Aminotransferase
+
+- Total Protiens
+
+- Albumin
+
+- Albumin and Globulin Ratio
+
+- Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
 
 # Conclusion
 
