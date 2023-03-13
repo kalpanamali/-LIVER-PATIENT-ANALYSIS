@@ -24,7 +24,7 @@ Patients with Liver disease have been continuously increasing because of excessi
 
 # Dataset
 
-we using the dataset https://www.kaggle.com/datasets/uciml/indian-liver-patient-records from kaggle
+we  are using the dataset https://www.kaggle.com/datasets/uciml/indian-liver-patient-records from the kaggle
 
 # Content
 
