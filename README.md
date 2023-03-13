@@ -14,6 +14,6 @@ This project aims to reduce the time delay caused due to the unnecessary back an
 learning algorithm will be trained to predict a liver disease in patients using a data-set collected from North East of Andhra Pradesh, India.
 
 
-#Problem Statement
+# Problem Statement
 
 The problem statement is formally defined as: ‘Given a dataset containing various attributes of 584 Indian patients, use the features available in the dataset and define a supervised classification algorithm which can identify whether a person is suffering from liver disease or not. This data set contains 416 liver patient records and 167 non- liver patient records.The data set was collected from north east of Andhra Pradesh, India. This data set contains 441 male patient records and 142 female patient records. Any patient whose age exceeded 89 is listed as being of age "90"
