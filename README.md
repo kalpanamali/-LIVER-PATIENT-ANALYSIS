@@ -21,3 +21,27 @@ The problem statement is formally defined as: ‘Given a dataset containing vari
 # Context
 
 Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors.
+
+# Content
+
+This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records. Any patient whose age exceeded 89 is listed as being of age "90".
+
+# Columns:
+
+-Age of the patient
+-Gender of the patient
+-Total Bilirubin
+-Direct Bilirubin
+-Alkaline Phosphotase
+-Alamine Aminotransferase
+-Aspartate Aminotransferase
+-Total Protiens
+-Albumin
+-Albumin and Globulin Ratio
+-Dataset: field used to split the data into two sets (patient with liver disease, or no disease)
+
+# Conclusion
+
+Initially, the dataset was explored and made ready to be fed into the classifiers. This was achieved by removing some rows containing null values, transforming some columns which were showing skewness and using appropriate methods (Label Encoding) to convert the labels so that they can be useful for classification purposes. Performance metrics on which the models would be evaluated were decided. The dataset was then split into a training and testing set.
+
+Firstly, a naive predictor and a benchmark model ('Logistic Regression') were run on the dataset to determine the benchmark value of accuracy. The greatest difficulty in the execution of this project was faced in two areas- determining the algorithms for training and choosing proper parameters for fine-tuning. Initially, I found it very vexing to decide upon 3 or 4 techniques out of the numerous options available in sklearn.
