@@ -1,4 +1,9 @@
 # -LIVER-PATIENT-ANALYSIS
+
+Name: Kalpana Mali
+Enrollment Number : EBEON1022677853
+Batch : 2022-8162
+
 # Objectives of Research
 In India, delayed diagnosis of diseases is a fundamental problem due to a shortage of medical professionals. A typical scenario, prevalent mostly in rural and somewhat in urban areas is:
 
